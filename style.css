@@ -1,0 +1,16 @@
+.nav navbar-nav{
+    display: inline;
+    list-style: none;
+}
+marquee{
+    background-color: blue;
+    color: white;
+    height: 50px;
+}
+iframe{
+    width: 100%;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
